@@ -1,17 +1,15 @@
 # e_commerce
 
-A new Flutter project.
+🔄 Fetch products from FakeStoreAPI
 
-## Getting Started
+🧠 State management using Provider  
 
-This project is a starting point for a Flutter application.
+🛒 Add to cart functionality with:
 
-A few resources to get you started if this is your first Flutter project:
+    Quantity increase/decrease
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Persistent cart using SharedPreferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# E-Commerce-" 
+📦 View all cart items with total price and quantity
+
+🎯 Clean, responsive UI using flutter_screenutil 
